@@ -1,6 +1,8 @@
 
 POLYRAGE – Polymorphic Resilient Autonomous Generative Emergent Network 🌱
+
 Overview
+
 Biomimetic distributed system research inspired by cellular immune response, swarm intelligence, and self-organizing networks.
 Explores emergent coordination patterns in decentralized multi-agent architectures with adaptive topology and self-repair mechanisms.
 Research focus: How simple autonomous agents with local rules generate complex system-level behaviors through polymorphic state transitions.
