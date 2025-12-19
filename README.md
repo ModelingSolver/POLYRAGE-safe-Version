@@ -1,44 +1,76 @@
-POLYRAGE – Réseau Autonome Génératif Émergent 🌱
-1. Forme Compacte : RAGE_Origin (Structure centralisée)
 
-Une forme compacte et contrôlée, avec plusieurs modules internes :
+POLYRAGE – Polymorphic Resilient Autonomous Generative Emergent Network 🌱
+Overview
+Biomimetic distributed system research inspired by cellular immune response, swarm intelligence, and self-organizing networks.
+Explores emergent coordination patterns in decentralized multi-agent architectures with adaptive topology and self-repair mechanisms.
+Research focus: How simple autonomous agents with local rules generate complex system-level behaviors through polymorphic state transitions.
 
-Watcher : surveille et détecte les anomalies.
+Architecture: Three Operational Modes
+1. Centralized Mode (RAGE_Origin)
+Tightly coordinated multi-module system:
 
-Défenseur : protège et sécurise le système.
+Observer module: Anomaly detection and signal monitoring
+Resilience module: System integrity and fault recovery
+Response module: Adaptive reaction to environmental changes
+Compute module: Analytical support and decision logic
+Coordinator module: Global state evaluation and local adaptation
 
-Attaque : contre-attaque proportionnelle en cas de menace.
+Communication: Secure internal protocols optimized for efficiency.
+Use case: High-coordination scenarios, centralized control requirements.
 
-Calcul : support analytique et décisionnel.
+2. Semi-Distributed Mode (RAGE_System)
+Autonomous modules with contextual cooperation:
 
-Analyse globale : évaluation des situations et adaptation locale.
+Each module operates independently with selective communication
+Adaptive behavior based on system load and environmental stress
+Emergent collaboration through functional proximity
+Balanced trade-off between coordination and resilience
 
-💡 Communication interne sécurisée et optimisée pour le fonctionnement normal.
+Use case: Dynamic environments requiring adaptability with moderate resource availability.
 
-2. Forme Semi-décentralisée : RAGE_System
+3. Fully Distributed Mode (RAGE_Eclats)
+Micro-agent cellular architecture:
 
-Chaque module peut fonctionner de manière autonome et communiquer de façon ciblée.
+System fragments into 25+ specialized autonomous units
+Each handles specific functions (observation, integrity, response, computation, analysis)
+10-15 dormant agents activate only on triggering events (resilience reserve)
+Zero mandatory communication – coordination emerges from local interactions
+Self-cloning and topology reconfiguration for persistence
 
-Comportement adaptatif selon la situation.
+Use case: Maximum resilience scenarios, hostile or unreliable environments.
 
-Coopération entre modules selon la charge et la menace détectée.
+Polymorphic Transitions
+ModeStrengthsTrade-offsTrigger ConditionsCentralizedStrong coordinationSingle point vulnerabilityStable environment, resource-richSemi-DistributedAdaptability, efficiencyHigher resource useModerate stress, changing conditionsFully DistributedMaximum resilience, fault-toleranceReduced direct controlHigh stress, adversarial conditions
+Dynamic morphing: System autonomously transitions between modes based on environmental signals (load, threat detection, connectivity).
 
-Furtivité et efficacité dans des environnements semi-fiables.
+Key Research Questions
 
-3. Forme Éclatée : RAGE_Eclats (Système distribué)
+How do local interaction rules generate global emergent behaviors?
+What triggers optimal polymorphic state transitions in distributed systems?
+Can self-repair mechanisms operate without centralized coordination?
+How does topology adaptation improve system survivability?
 
-Le système se divise en micro-modules autonomes :
 
-Chacun gère une fonction spécifique (surveillance, défense, attaque, calcul, analyse).
+Applications (Theoretical)
 
-Certains modules restent en veille ou furtifs pour résilience maximale.
+Fault-tolerant distributed computing
+Emergent coordination in multi-agent systems
+Self-organizing network architectures
+Resilient infrastructure design
 
-Comportement émergent par proximité fonctionnelle et adaptation.
 
-⚠️ Tous les exemples de scripts et actions réseau sont retirés pour sécurité.
+Related Work
 
-Mutations et transitions entre formes
-Forme	Avantages	Inconvénients	Usage recommandé
-Compacte	Coordination forte	Vulnérable à attaque ciblée	Gestion de données sensibles
-Semi-décentralisée	Adaptabilité	Plus gourmand en ressources	Détection et surveillance dynamique
-Éclatée	Résilience et furtivité	Contrôle limité	Infiltration et survie en environnement complexe
+Cellular immune response modeling (Janeway, 2001)
+Swarm intelligence (Bonabeau et al., 1999)
+Self-organizing systems (Heylighen, 2001)
+Adaptive distributed networks (Barabási, 2016)
+
+
+Status
+Active research project. Safe version for public exploration.
+⚠️ Implementation details intentionally abstracted for security and ethical considerations.
+
+Connect
+Research collaboration welcome.
+https://www.linkedin.com/in/chems-omari-75924536b/
